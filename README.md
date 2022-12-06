@@ -31,15 +31,15 @@ Leader is mapped to <space>
 
 | Key command | Action |
 | ----------- | ------ |
-| <leader>ff | Find files |
-| <leader>fg | Grep files |
-| <leader>fb | Find in buffers |
-| <leader>h | Harpoon menu |
-| <leader>m | Set a harpoon mark |
-| <C-[1-9]> | Navigate to harpoon mark |
-| <C-0> | Opens terminal |
-| <C--> | Next harpoon mark |
-| <C-=> | Previous harpoon mark |
+| \<leader>ff | Find files |
+| \<leader>fg | Grep files |
+| \<leader>fb | Find in buffers |
+| \<leader>h | Harpoon menu |
+| \<leader>m | Set a harpoon mark |
+| \<C-[1-9]> | Navigate to harpoon mark |
+| \<C-0> | Opens terminal |
+| \<C--> | Next harpoon mark |
+| \<C-=> | Previous harpoon mark |
 
 ## Plugins for future considerations
 
@@ -47,5 +47,5 @@ Might want to install fugitive or another git plugin, however interested in util
 
 ## Looking for more good plugins?
 
-- github.com/rockerBOO/awesome-neovim
+- https://github.com/rockerBOO/awesome-neovim
 - https://neovimcraft.com
