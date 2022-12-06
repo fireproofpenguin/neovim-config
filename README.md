@@ -27,10 +27,11 @@ Install with brew
 
 ## Key bindings
 
-Leader is mapped to <space>
+Leader is mapped to \<space>
 
 | Key command | Action |
 | ----------- | ------ |
+| \<leader>pv | Open NvimTree menu |
 | \<leader>ff | Find files |
 | \<leader>fg | Grep files |
 | \<leader>fb | Find in buffers |
