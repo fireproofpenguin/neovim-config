@@ -1,5 +1,7 @@
 # My neovim config
 
+My simple neovim config to get back into it. Very heavily influenced by ThePrimeagen's video on setting up neovim, so the leader key and menu commands are basically stolen from there. After that it's basically language servers to get me running.
+
 ## Pre-requisites
 
 Install with brew
